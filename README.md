@@ -3,5 +3,4 @@ This repository contains the quizzes along with their SQL commands for the conce
 
 Here is the schema of the database used for all the queries.
 
-![](image/schema.png)
-
+<img src="image/schema.png">
